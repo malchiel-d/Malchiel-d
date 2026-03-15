@@ -1,18 +1,56 @@
-# 💫 About Me:
-🔭 Currently working on [Litra](https://malchiel-d.github.io/litra/)
-<br>
+<div align="center" > <img src="./assets/header.png" alt="Malchiel"> </div> 
 
-👯 I build Frontend projects that need a clean UI and responsive layouts.
-<br>
+## lets connect:
+<div>
 
-🌱 Learning The "Logic" side of programming—moving from static HTML/CSS to dynamic JavaScript apps.
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-787ff5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGFyaWEtaGlkZGVuPSJ0cnVlIiB2aWV3Qm94PSIwIDAgNDQ4IDUxMiI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEwMC4zIDQ0OEg3LjRWMTQ4LjloOTIuODh6TTUzLjc5IDEwOC4xQzI0LjA5IDEwOC4xIDAgODMuNSAwIDUzLjhhNTMuNzkgNTMuNzkgMCAwIDEgMTA3LjYgMGMwIDI5LjctMjQuMSA1NC4zLTUzLjc5IDU0LjN6TTQ0Ny45IDQ0OGgtOTIuNjhWMzAyLjRjMC0zNC43LS43LTc5LjItNDguMjktNzkuMi00OC4yOSAwLTU1LjY5IDM3LjctNTUuNjkgNzYuN1Y0NDhoLTkyLjc4VjE0OC45aDg5LjA4djQwLjhoMS4zYzEyLjQtMjMuNSA0Mi42OS00OC4zIDg3Ljg4LTQ4LjMgOTQgMCAxMTEuMyA2MS45IDExMS4zIDE0Mi4zVjQ0OHoiLz48L3N2Zz4=&labelColor=0a0f30)](https://www.linkedin.com/in/malchiel-dawit) 
+[![Email](https://img.shields.io/badge/Email-787ff5?style=for-the-badge&logo=gmail&logoColor=e5e6e9&labelColor=0a0f30)](mailto:malchiel.dawit1@gmail.com)
 
-⚡ I obsess over making 1px adjustments 
+</div>
 
+<<<<<<< HEAD
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7cebf5?color=2DD4B9&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555)](https://www.linkedin.com/in/malchiel-dawit) 
 [![Email](https://img.shields.io/badge/Email-7cebf5?color=2DD4B9&style=for-the-badge&logo=gmail&logoColor=white&labelColor=555)](mailto:malchiel.dawit1@gmail.com)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) [![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+=======
+
+## tech stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-0a0f30?style=for-the-badge&logo=html5&logoColor=787ff5" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-0a0f30?style=for-the-badge&logo=css&logoColor=787ff5" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-0a0f30?style=for-the-badge&logo=javascript&logoColor=787ff5" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Markdown-0a0f30?style=for-the-badge&logo=markdown&logoColor=787ff5" alt="Markdown">
+  <img src="https://img.shields.io/badge/Git-0a0f30?style=for-the-badge&logo=git&logoColor=787ff5" alt="Git">
+</p>
+
+
+<p>
+  <img src="./assets/simpleanalytics.svg" alt="stats" style="vertical-align: middle; width:24px; height:24px;">
+  GitHub Stats
+</p>
+
+
+​<p align="center">
+<a href="https://github.com/malchiel-d">
+<img src="https://github-readme-stats.vercel.app/api?username=malchiel-d&show_icons=true&theme=dark&bg_color=0a0f30&title_color=787ff5&text_color=e5e6e9&icon_color=446a90&border_color=3e478d" alt="Malchiel's Stats" />
+</a>
+<a href="https://github.com/malchiel-d">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malchiel-d&layout=compact&theme=dark&bg_color=0a0f30&title_color=787ff5&text_color=e5e6e9&icon_color=446a90&border_color=3e478d" alt="Top Languages" />
+</a>
+</p>
+​<p align="center">
+<a href="https://github.com/malchiel-d">
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=malchiel-d&background=0a0f30&border=3e478d&stroke=3e478d&ring=787ff5&fire=787ff5&currStreakLabel=787ff5&sideNums=e5e6e9&sideLabels=e5e6e9&dates=446a90" alt="GitHub Streak" />
+</a>
+</p>
+​<p align="center">
+<a href="https://github.com/malchiel-d">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=malchiel-d&bg_color=0a0f30&color=787ff5&line=787ff5&point=e5e6e9&area=true&hide_border=false&border_color=3e478d&title_color=787ff5" alt="Activity Graph" />
+</a>
+</p>
+<br />
+>>>>>>> 0924a46c888813ef2297dd1400a23d4dfa97ac10
